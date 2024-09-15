@@ -6,7 +6,7 @@
 - Table
 
 ### What I learned
-- Sometimes it's easier to use a customized <div> instead of <hr>
+- Sometimes it's easier to use a customized div instead of hr
 
 ### Continued development
 
